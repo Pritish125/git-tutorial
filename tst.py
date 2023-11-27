@@ -11,4 +11,4 @@ k =True
 while n % 10 != 0:
     n+= 1
 print(n)
-# new version 5
+# new version alt
